@@ -23,6 +23,3 @@ Assumptions:
 1. The video should autoplay upon navigation to details page
 2. The aspect ratio for video and poster should change based on availability of the content
 
-Limitations: 
-1. Couldn't find main cast data in the response replaced with producers data
-2. Couldn't find any pagination option like a query in the get anime list page response.
